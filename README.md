@@ -7,8 +7,14 @@
 
 **Strings**
 
-- [ ] Read String Questions in Interviews.
-  - Using a few sentences, describe what you've learned.
+- [x] Read String Questions in Interviews.
+  - "Strings’ immutability means that the String variable `ans` is actually destroyed and re-created every time a new character is added to it".
+  - Generate all permutations of a given String 
+  - Substrings of a given String
+  - Determine if one string is a permutation of another
+  - Reversing Strings
+  - Replacements and Deletions
+  - String Compression
 - [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
 - [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
