@@ -16,7 +16,7 @@
   - Replacements and Deletions
   - String Compression
 - [x] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
-  - Using a few sentences, describe what you've learned.
+  - Use memoization to prevent duplicate calculation
 - [x] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
   - Using a few sentences, describe what you've learned.
 
